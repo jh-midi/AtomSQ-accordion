@@ -1,5 +1,5 @@
 # AtomSQ-accordion<br>
-This is an example of portmidi usage<br>
+This is an example of portmidi usage with the help of MLton<br>
 Accordion configuration for BC or GC on ATOM sq<br>
 Knobs can be set to relative and speed is ajustable with step control. <br>
 Windows application is provided in atomSQ.zip file.
