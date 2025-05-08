@@ -1,0 +1,5 @@
+atomSQ.exe: main.sml cstring.sml display.sml  atomsq_ok.sml portmidi.sml portmidi_mlton_FFI_lib.sml atomSQ.mlb
+	mlton -default-ann 'allowFFI true'  -link-opt '-L./dll -lportmidi' atomSQ.mlb
+
+
+
