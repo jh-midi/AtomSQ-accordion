@@ -4,7 +4,9 @@ Accordion configuration for BC or GC on ATOM sq<br>
 Knobs can be set to relative and speed is ajustable with step control. <br>
 The Makefile is for Linux Fedora<br>
 for Windows use make -f Makefile.win<br>
-Windows application is provided in atomSQ.zip file.
+Windows application is provided in atomSQ.zip file.<br>
+and Linux console application in atom-sq.tar.gz (should run immediatly if you connect an atomSQ)<br>
+
 
 
 ![controller (Petite)](https://github.com/user-attachments/assets/d524c26e-2b67-45ff-8418-ca77dbc1812b)
