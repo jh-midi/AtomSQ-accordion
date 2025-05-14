@@ -6,8 +6,9 @@ The Makefile is for Linux Fedora<br>
 for Windows use make -f Makefile.win<br>
 Windows cmd application is provided in atomSQ.zip file.<br>
 and Linux terminal application in atom-sq.tar.gz (should run immediatly if you connect an atomSQ)<br>
-
-
+here the portmidi library interface is at early version, look at <br>
+https://github.com/jh-midi/portmidi-mlton<br>
+it is only one sml file , and better error handling.
 
 ![controller (Petite)](https://github.com/user-attachments/assets/d524c26e-2b67-45ff-8418-ca77dbc1812b)
 
