@@ -5,7 +5,7 @@ Knobs can be set to relative and speed is ajustable with step control. <br>
 The Makefile is for Linux Fedora<br>
 for Windows use make -f Makefile.win<br>
 Windows cmd application is provided in atomSQ.zip file.<br>
-and Linux terminal application in atom-sq.tar.gz (should run immediatly if you connect an atomSQ)<br>
+and Linux terminal application is in atom-sq.tar.gz (run immediatly if you connect an atomSQ. A virtual midi port with name "diato" is created)<br>
 here the portmidi library interface is at early version, look at <br>
 https://github.com/jh-midi/portmidi-mlton<br>
 it is only one sml file , and better error handling.
